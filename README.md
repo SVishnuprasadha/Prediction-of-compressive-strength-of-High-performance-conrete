@@ -1,5 +1,5 @@
 # Soft-Computing-Project
-Soft Computing course project
+Brief Overview
 
 My objective with this project was to extract the features and the properties that play a crucial role in determining compressive strength of the concrete and visualise it, consequently develop various models on the basis of this understanding. After feature extraction. I attempted to build multiple ANN models using Tensorflow and Keras framework followed by a SVM based model as well!
 
